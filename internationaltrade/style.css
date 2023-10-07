@@ -1,0 +1,430 @@
+.international-trade {
+    background-color: #fcfbf0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.international-trade .div {
+    background-color: #fcfbf0;
+    overflow: hidden;
+    width: 1440px;
+    height: 1076px;
+    position: relative;
+}
+
+.international-trade .image {
+    position: absolute;
+    width: 1371px;
+    height: 1023px;
+    top: -7968px;
+    left: 8310px;
+    object-fit: cover;
+}
+
+.international-trade .group {
+    position: absolute;
+    width: 388px;
+    height: 1055px;
+    top: 278px;
+    left: 114px;
+}
+
+.international-trade .group-wrapper {
+    position: absolute;
+    width: 388px;
+    height: 550px;
+    top: 0;
+    left: 0;
+    background-image: url(./img/mask-group.png);
+    background-size: 100% 100%;
+}
+
+.international-trade .group-2 {
+    position: relative;
+    width: 349px;
+    height: 323px;
+    top: 171px;
+    left: 20px;
+}
+
+.international-trade .overlap {
+    position: absolute;
+    width: 349px;
+    height: 300px;
+    top: -1px;
+    left: 0;
+}
+
+.international-trade .vector {
+    position: absolute;
+    width: 2px;
+    height: 300px;
+    top: 0;
+    left: 12px;
+}
+
+.international-trade .group-3 {
+    position: absolute;
+    width: 214px;
+    height: 25px;
+    top: 47px;
+    left: 0;
+}
+
+.international-trade .ellipse-wrapper {
+    position: absolute;
+    width: 25px;
+    height: 24px;
+    top: 0;
+    left: 0;
+    background-color: #6d94d1;
+    border-radius: 12.32px/11.88px;
+}
+
+.international-trade .ellipse {
+    position: relative;
+    width: 10px;
+    height: 10px;
+    top: 7px;
+    left: 7px;
+    background-color: #111111;
+    border-radius: 4.93px/4.75px;
+}
+
+.international-trade .text-wrapper {
+    position: absolute;
+    width: 177px;
+    top: 0;
+    left: 34px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.international-trade .group-4 {
+    position: absolute;
+    width: 349px;
+    height: 25px;
+    top: 131px;
+    left: 0;
+}
+
+.international-trade .div-wrapper {
+    position: absolute;
+    width: 316px;
+    height: 25px;
+    top: 0;
+    left: 34px;
+}
+
+.international-trade .text-wrapper-2 {
+    position: absolute;
+    width: 314px;
+    top: 0;
+    left: 0;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 21px;
+    white-space: nowrap;
+}
+
+.international-trade .group-5 {
+    position: absolute;
+    width: 349px;
+    height: 50px;
+    top: 216px;
+    left: 0;
+}
+
+.international-trade .group-6 {
+    position: absolute;
+    width: 316px;
+    height: 50px;
+    top: 0;
+    left: 34px;
+}
+
+.international-trade .p {
+    position: absolute;
+    width: 314px;
+    top: 0;
+    left: 0;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 21px;
+}
+
+.international-trade .group-7 {
+    position: absolute;
+    width: 25px;
+    height: 24px;
+    top: 299px;
+    left: 0;
+}
+
+.international-trade .overlap-group-wrapper {
+    height: 24px;
+}
+
+.international-trade .overlap-group {
+    position: relative;
+    width: 25px;
+    height: 24px;
+    border-radius: 12.32px/11.88px;
+}
+
+.international-trade .ellipse-2 {
+    position: absolute;
+    width: 25px;
+    height: 24px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 12.32px/11.88px;
+    opacity: 0.4;
+}
+
+.international-trade .ellipse-3 {
+    height: 10px;
+    top: 7px;
+    left: 7px;
+    background-color: #111111;
+    border-radius: 4.93px/4.75px;
+    opacity: 0.5;
+    position: absolute;
+    width: 10px;
+}
+
+.international-trade .group-8 {
+    position: absolute;
+    width: 249px;
+    height: 46px;
+    top: 1009px;
+    left: 20px;
+}
+
+.international-trade .group-9 {
+    position: relative;
+    height: 46px;
+}
+
+.international-trade .group-10 {
+    position: absolute;
+    width: 208px;
+    height: 46px;
+    top: 0;
+    left: 44px;
+}
+
+.international-trade .text-wrapper-3 {
+    position: absolute;
+    width: 81px;
+    top: 0;
+    left: 0;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #3195f7;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 21px;
+    white-space: nowrap;
+}
+
+.international-trade .new-york-city-new {
+    position: absolute;
+    width: 204px;
+    top: 28px;
+    left: 0;
+    opacity: 0.5;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #3195f7;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 18px;
+    white-space: nowrap;
+}
+
+.international-trade .group-11 {
+    position: absolute;
+    width: 34px;
+    height: 27px;
+    top: 0;
+    left: 0;
+}
+
+.international-trade .overlap-group-2 {
+    position: relative;
+    height: 27px;
+    border-radius: 17.24px/13.73px;
+}
+
+.international-trade .ellipse-4 {
+    position: absolute;
+    width: 34px;
+    height: 27px;
+    top: 0;
+    left: 0;
+    background-color: #3195f7;
+    border-radius: 17.24px/13.73px;
+    opacity: 0.4;
+}
+
+.international-trade .ellipse-5 {
+    position: absolute;
+    width: 25px;
+    height: 20px;
+    top: 4px;
+    left: 5px;
+    background-color: #3195f7;
+    border-radius: 12.32px/9.8px;
+}
+
+.international-trade .ellipse-6 {
+    height: 8px;
+    top: 10px;
+    left: 12px;
+    background-color: #a0ebce;
+    border-radius: 4.93px/3.92px;
+    position: absolute;
+    width: 10px;
+}
+
+.international-trade .group-12 {
+    position: absolute;
+    width: 840px;
+    height: 559px;
+    top: 109px;
+    left: 673px;
+}
+
+.international-trade .overlap-wrapper {
+    height: 559px;
+}
+
+.international-trade .overlap-2 {
+    position: relative;
+    width: 840px;
+    height: 559px;
+}
+
+.international-trade .rectangle {
+    width: 617px;
+    height: 370px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.international-trade .group-13 {
+    position: absolute;
+    width: 236px;
+    height: 390px;
+    top: 168px;
+    left: 604px;
+}
+
+.international-trade .group-14 {
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    top: 333px;
+    left: 108px;
+}
+
+.international-trade .group-15 {
+    height: 56px;
+}
+
+.international-trade .group-16 {
+    width: 56px;
+    height: 56px;
+}
+
+.international-trade .overlap-group-3 {
+    position: relative;
+    height: 56px;
+    border-radius: 18px;
+}
+
+.international-trade .rectangle-2 {
+    width: 56px;
+    height: 56px;
+    background-color: #111111;
+    border-radius: 18px;
+    opacity: 0.5;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.international-trade .img {
+    position: absolute;
+    width: 31px;
+    height: 31px;
+    top: 14px;
+    left: 14px;
+}
+
+.international-trade .group-17 {
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    top: 334px;
+    left: 180px;
+}
+
+.international-trade .vector-2 {
+    position: absolute;
+    width: 28px;
+    height: 1px;
+    top: -7993px;
+    left: 8667px;
+}
+
+.international-trade .group-18 {
+    position: absolute;
+    width: 54px;
+    height: 23px;
+    top: 16px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 6px;
+    transform: rotate(-46.18deg);
+}
+
+.international-trade .text-wrapper-4 {
+    position: absolute;
+    top: 52px;
+    left: 148px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.international-trade .latest-trends {
+    position: absolute;
+    top: 157px;
+    left: 179px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 26px;
+    letter-spacing: 0;
+    line-height: normal;
+}

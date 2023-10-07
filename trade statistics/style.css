@@ -1,0 +1,447 @@
+.trade-statistics {
+    background-color: #fcfbf0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.trade-statistics .div {
+    background-color: #fcfbf0;
+    overflow: hidden;
+    width: 1440px;
+    height: 1076px;
+    position: relative;
+}
+
+.trade-statistics .image {
+    width: 1371px;
+    height: 1023px;
+    top: -4922px;
+    left: 7014px;
+    position: absolute;
+    object-fit: cover;
+}
+
+.trade-statistics .group {
+    position: absolute;
+    width: 388px;
+    height: 1055px;
+    top: 278px;
+    left: 114px;
+}
+
+.trade-statistics .group-wrapper {
+    position: absolute;
+    width: 388px;
+    height: 550px;
+    top: 0;
+    left: 0;
+    background-image: url(./img/mask-group.png);
+    background-size: 100% 100%;
+}
+
+.trade-statistics .group-2 {
+    position: relative;
+    width: 349px;
+    height: 323px;
+    top: 171px;
+    left: 20px;
+}
+
+.trade-statistics .overlap {
+    position: absolute;
+    width: 349px;
+    height: 300px;
+    top: -1px;
+    left: 0;
+}
+
+.trade-statistics .vector {
+    position: absolute;
+    width: 2px;
+    height: 300px;
+    top: 0;
+    left: 12px;
+}
+
+.trade-statistics .group-3 {
+    position: absolute;
+    width: 214px;
+    height: 25px;
+    top: 47px;
+    left: 0;
+}
+
+.trade-statistics .ellipse-wrapper {
+    position: absolute;
+    width: 25px;
+    height: 24px;
+    top: 0;
+    left: 0;
+    background-color: #6d94d1;
+    border-radius: 12.32px/11.88px;
+}
+
+.trade-statistics .ellipse {
+    position: relative;
+    width: 10px;
+    height: 10px;
+    top: 7px;
+    left: 7px;
+    background-color: #111111;
+    border-radius: 4.93px/4.75px;
+}
+
+.trade-statistics .text-wrapper {
+    position: absolute;
+    width: 177px;
+    top: 0;
+    left: 34px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.trade-statistics .group-4 {
+    position: absolute;
+    width: 349px;
+    height: 25px;
+    top: 131px;
+    left: 0;
+}
+
+.trade-statistics .div-wrapper {
+    position: absolute;
+    width: 316px;
+    height: 25px;
+    top: 0;
+    left: 34px;
+}
+
+.trade-statistics .text-wrapper-2 {
+    position: absolute;
+    width: 314px;
+    top: 0;
+    left: 0;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 21px;
+    white-space: nowrap;
+}
+
+.trade-statistics .group-5 {
+    position: absolute;
+    width: 349px;
+    height: 50px;
+    top: 216px;
+    left: 0;
+}
+
+.trade-statistics .group-6 {
+    position: absolute;
+    width: 316px;
+    height: 50px;
+    top: 0;
+    left: 34px;
+}
+
+.trade-statistics .text-wrapper-3 {
+    position: absolute;
+    width: 314px;
+    top: 0;
+    left: 0;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 21px;
+}
+
+.trade-statistics .group-7 {
+    position: absolute;
+    width: 25px;
+    height: 24px;
+    top: 299px;
+    left: 0;
+}
+
+.trade-statistics .overlap-group-wrapper {
+    height: 24px;
+}
+
+.trade-statistics .overlap-group {
+    position: relative;
+    width: 25px;
+    height: 24px;
+    border-radius: 12.32px/11.88px;
+}
+
+.trade-statistics .ellipse-2 {
+    position: absolute;
+    width: 25px;
+    height: 24px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 12.32px/11.88px;
+    opacity: 0.4;
+}
+
+.trade-statistics .ellipse-3 {
+    height: 10px;
+    top: 7px;
+    left: 7px;
+    background-color: #111111;
+    border-radius: 4.93px/4.75px;
+    opacity: 0.5;
+    position: absolute;
+    width: 10px;
+}
+
+.trade-statistics .group-8 {
+    position: absolute;
+    width: 249px;
+    height: 46px;
+    top: 1009px;
+    left: 20px;
+}
+
+.trade-statistics .group-9 {
+    position: relative;
+    height: 46px;
+}
+
+.trade-statistics .group-10 {
+    position: absolute;
+    width: 208px;
+    height: 46px;
+    top: 0;
+    left: 44px;
+}
+
+.trade-statistics .text-wrapper-4 {
+    position: absolute;
+    width: 81px;
+    top: 0;
+    left: 0;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #3195f7;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 21px;
+    white-space: nowrap;
+}
+
+.trade-statistics .new-york-city-new {
+    position: absolute;
+    width: 204px;
+    top: 28px;
+    left: 0;
+    opacity: 0.5;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #3195f7;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 18px;
+    white-space: nowrap;
+}
+
+.trade-statistics .group-11 {
+    position: absolute;
+    width: 34px;
+    height: 27px;
+    top: 0;
+    left: 0;
+}
+
+.trade-statistics .overlap-group-2 {
+    position: relative;
+    height: 27px;
+    border-radius: 17.24px/13.73px;
+}
+
+.trade-statistics .ellipse-4 {
+    position: absolute;
+    width: 34px;
+    height: 27px;
+    top: 0;
+    left: 0;
+    background-color: #3195f7;
+    border-radius: 17.24px/13.73px;
+    opacity: 0.4;
+}
+
+.trade-statistics .ellipse-5 {
+    position: absolute;
+    width: 25px;
+    height: 20px;
+    top: 4px;
+    left: 5px;
+    background-color: #3195f7;
+    border-radius: 12.32px/9.8px;
+}
+
+.trade-statistics .ellipse-6 {
+    height: 8px;
+    top: 10px;
+    left: 12px;
+    background-color: #a0ebce;
+    border-radius: 4.93px/3.92px;
+    position: absolute;
+    width: 10px;
+}
+
+.trade-statistics .overlap-wrapper {
+    position: absolute;
+    width: 926px;
+    height: 963px;
+    top: 19px;
+    left: 636px;
+}
+
+.trade-statistics .overlap-2 {
+    position: relative;
+    height: 963px;
+}
+
+.trade-statistics .group-12 {
+    position: absolute;
+    width: 926px;
+    height: 963px;
+    top: 0;
+    left: 0;
+}
+
+.trade-statistics .overlap-3 {
+    position: relative;
+    width: 877px;
+    height: 963px;
+}
+
+.trade-statistics .rectangle {
+    width: 804px;
+    height: 963px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.trade-statistics .group-13 {
+    position: absolute;
+    width: 236px;
+    height: 390px;
+    top: 259px;
+    left: 641px;
+}
+
+.trade-statistics .group-14 {
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    top: 333px;
+    left: 108px;
+}
+
+.trade-statistics .group-15 {
+    height: 56px;
+}
+
+.trade-statistics .group-16 {
+    width: 56px;
+    height: 56px;
+}
+
+.trade-statistics .overlap-group-3 {
+    position: relative;
+    height: 56px;
+    border-radius: 18px;
+}
+
+.trade-statistics .rectangle-2 {
+    width: 56px;
+    height: 56px;
+    background-color: #111111;
+    border-radius: 18px;
+    opacity: 0.5;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.trade-statistics .img {
+    position: absolute;
+    width: 31px;
+    height: 31px;
+    top: 14px;
+    left: 14px;
+}
+
+.trade-statistics .group-17 {
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    top: 334px;
+    left: 180px;
+}
+
+.trade-statistics .vector-2 {
+    position: absolute;
+    width: 28px;
+    height: 1px;
+    top: -4947px;
+    left: 7371px;
+}
+
+.trade-statistics .group-18 {
+    position: absolute;
+    width: 54px;
+    height: 23px;
+    top: 16px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 6px;
+    transform: rotate(-46.18deg);
+}
+
+.trade-statistics .image-2 {
+    width: 426px;
+    height: 318px;
+    top: 99px;
+    left: 43px;
+    position: absolute;
+    object-fit: cover;
+}
+
+.trade-statistics .text-wrapper-5 {
+    position: absolute;
+    top: 52px;
+    left: 148px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.trade-statistics .latest-trends {
+    position: absolute;
+    top: 157px;
+    left: 179px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 26px;
+    letter-spacing: 0;
+    line-height: normal;
+}

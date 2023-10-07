@@ -1,0 +1,401 @@
+.desktop {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.desktop .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1920px;
+    height: 1080px;
+    position: relative;
+}
+
+.desktop .overlap {
+    position: absolute;
+    width: 1920px;
+    height: 900px;
+    top: 180px;
+    left: 2px;
+    background-color: #f5f5dc;
+}
+
+.desktop .input-personaldata {
+    display: flex;
+    flex-direction: column;
+    width: 1080px;
+    height: 696px;
+    align-items: center;
+    justify-content: space-around;
+    gap: 36px;
+    padding: var(--dimensions-gaps-gap-75) 0px var(--dimensions-gaps-gap-75) 0px;
+    position: relative;
+    top: 93px;
+    left: 420px;
+    background-color: #ffffff;
+    border-radius: var(--dimensions-corners-corner-30);
+}
+
+.desktop .login-viaid {
+    display: flex;
+    flex-direction: column;
+    width: 1144px;
+    height: 749px;
+    align-items: center;
+    justify-content: center;
+    gap: var(--dimensions-gaps-gap-50);
+    position: relative;
+    margin-top: -101.5px;
+    margin-bottom: -101.5px;
+    margin-left: -32px;
+    margin-right: -32px;
+    background-color: #195388;
+    border-radius: var(--dimensions-corners-corner-30);
+    overflow: hidden;
+}
+
+.desktop .logintitle {
+    position: relative;
+    width: 470px;
+    height: 60px;
+}
+
+.desktop .overlap-group {
+    position: relative;
+    width: 270px;
+    height: 62px;
+    left: 100px;
+}
+
+.desktop .rectangle {
+    position: absolute;
+    width: 270px;
+    height: 60px;
+    top: 2px;
+    left: 0;
+}
+
+.desktop .group {
+    position: absolute;
+    width: 123px;
+    height: 56px;
+    top: 0;
+    left: 74px;
+}
+
+.desktop .text-wrapper {
+    position: absolute;
+    height: 56px;
+    top: 0;
+    left: 0;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--white);
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+    white-space: nowrap;
+}
+
+.desktop .input-fields {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--dimensions-gaps-gap-30);
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.desktop .input-popup {
+    display: flex;
+    flex-direction: column;
+    width: 520px;
+    align-items: flex-start;
+    justify-content: flex-end;
+    gap: var(--dimensions-gaps-gap-10);
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.desktop .input-title {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--black);
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.desktop .span {
+    text-decoration: underline;
+}
+
+.desktop .text-wrapper-2 {
+    font-family: var(--h2-font-family);
+    font-weight: var(--h2-font-weight);
+    color: #000000;
+    font-size: var(--h2-font-size);
+    letter-spacing: var(--h2-letter-spacing);
+    font-style: var(--h2-font-style);
+    line-height: var(--h2-line-height);
+}
+
+.desktop .input-field {
+    display: flex;
+    align-items: center;
+    gap: var(--dimensions-gaps-gap-10);
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.desktop .iconset {
+    position: relative;
+    width: 45px;
+    height: 45px;
+}
+
+.desktop .input-rectangle {
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+    height: 45px;
+    background-color: var(--white);
+    border: 3px solid;
+    border-color: var(--cyan-25);
+}
+
+.desktop .input-text {
+    position: absolute;
+    top: 11px;
+    left: 70px;
+    font-family: var(--h2-font-family);
+    font-weight: var(--h2-font-weight);
+    color: var(--grey-25);
+    font-size: var(--h2-font-size);
+    letter-spacing: var(--h2-letter-spacing);
+    line-height: var(--h2-line-height);
+    white-space: nowrap;
+    font-style: var(--h2-font-style);
+}
+
+.desktop .input {
+    position: absolute;
+    top: 11px;
+    left: 70px;
+    font-family: var(--h2-font-family);
+    font-weight: var(--h2-font-weight);
+    color: var(--grey-25);
+    font-size: var(--h2-font-size);
+    letter-spacing: var(--h2-letter-spacing);
+    line-height: var(--h2-line-height);
+    white-space: nowrap;
+    font-style: var(--h2-font-style);
+    background: transparent;
+    border: none;
+    padding: 0;
+}
+
+.desktop .btn-BLUE {
+    display: flex;
+    width: 238px;
+    height: 65px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 12px 87px;
+    position: relative;
+    background-color: var(--violet);
+    border-radius: 10px;
+    border: 5px solid;
+    border-color: var(--cyan-25);
+}
+
+.desktop .login {
+    position: relative;
+    width: fit-content;
+    margin-left: -13px;
+    margin-right: -13px;
+    font-family: var(--h3-font-family);
+    font-weight: var(--h3-font-weight);
+    color: var(--white);
+    font-size: var(--h3-font-size);
+    text-align: center;
+    letter-spacing: var(--h3-letter-spacing);
+    line-height: var(--h3-line-height);
+    white-space: nowrap;
+    font-style: var(--h3-font-style);
+}
+
+.desktop .line {
+    position: relative;
+    width: 982px;
+    height: 3px;
+}
+
+.desktop .input-popup-2 {
+    display: flex;
+    flex-direction: column;
+    width: 450px;
+    align-items: flex-start;
+    justify-content: flex-end;
+    gap: var(--dimensions-gaps-gap-10);
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.desktop .div-wrapper {
+    display: flex;
+    width: 238px;
+    height: 65px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 12px 87px;
+    position: relative;
+    background-color: var(--violet);
+    border-radius: 10px;
+    border: 5px solid;
+    border-color: var(--cyan-25);
+    all: unset;
+    box-sizing: border-box;
+}
+
+.desktop .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    font-family: var(--h3-font-family);
+    font-weight: var(--h3-font-weight);
+    color: var(--white);
+    font-size: var(--h3-font-size);
+    text-align: center;
+    letter-spacing: var(--h3-letter-spacing);
+    line-height: var(--h3-line-height);
+    white-space: nowrap;
+    font-style: var(--h3-font-style);
+}
+
+.desktop .header {
+    position: absolute;
+    width: 1920px;
+    height: 180px;
+    top: 0;
+    left: 0;
+    background-color: #195994;
+    opacity: 0.9;
+}
+
+.desktop .search-bar {
+    position: absolute;
+    width: 467px;
+    height: 52px;
+    top: 122px;
+    left: 1428px;
+    border-radius: 30px;
+    border: 1px solid;
+    border-color: #e9efff;
+}
+
+.desktop .text-wrapper-4 {
+    position: absolute;
+    top: 12px;
+    left: 27px;
+    opacity: 0.5;
+    font-family: "Montserrat-Light", Helvetica;
+    font-weight: 300;
+    color: #e9efff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.desktop .search-icon {
+    position: absolute;
+    width: 27px;
+    height: 23px;
+    top: 14px;
+    left: 416px;
+}
+
+.desktop .overlap-group-2 {
+    position: relative;
+    height: 22px;
+}
+
+.desktop .ellipse {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    top: 0;
+    left: 0;
+    border-radius: 9px;
+    border: 0.5px solid;
+    border-color: #e9efff;
+}
+
+.desktop .img {
+    position: absolute;
+    width: 11px;
+    height: 8px;
+    top: 14px;
+    left: 15px;
+}
+
+.desktop .ttile {
+    position: absolute;
+    width: 637px;
+    height: 80px;
+    top: 42px;
+    left: 224px;
+}
+
+.desktop .p {
+    position: absolute;
+    width: 579px;
+    height: 35px;
+    top: 13px;
+    left: -9px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #e9efff;
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .clipart {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    top: 14px;
+    left: 32px;
+}
+
+.desktop .india-logo {
+    position: absolute;
+    width: 170px;
+    height: 90px;
+    top: 10px;
+    left: 1456px;
+    object-fit: cover;
+}
+
+.desktop .azadi-ka-amrit {
+    position: absolute;
+    width: 193px;
+    height: 94px;
+    top: 10px;
+    left: 1702px;
+    object-fit: cover;
+}

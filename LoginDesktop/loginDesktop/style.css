@@ -1,0 +1,1056 @@
+.login-desktop {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.login-desktop .div {
+    width: 1440px;
+    height: 2276px;
+    position: relative;
+}
+
+.login-desktop .footer {
+    position: absolute;
+    width: 1440px;
+    height: 275px;
+    top: 1999px;
+    left: 0;
+    background-color: #195994;
+}
+
+.login-desktop .text-wrapper {
+    position: absolute;
+    top: 254px;
+    left: 622px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.login-desktop .home-button {
+    position: absolute;
+    width: 29px;
+    height: 26px;
+    top: 234px;
+    left: 1366px;
+}
+
+.login-desktop .about-us {
+    position: absolute;
+    width: 96px;
+    height: 24px;
+    top: 62px;
+    left: 767px;
+}
+
+.login-desktop .text-wrapper-2 {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.login-desktop .contact {
+    position: absolute;
+    width: 82px;
+    height: 24px;
+    top: 62px;
+    left: 948px;
+}
+
+.login-desktop .events {
+    position: absolute;
+    width: 70px;
+    height: 24px;
+    top: 93px;
+    left: 767px;
+}
+
+.login-desktop .website-policy {
+    position: absolute;
+    width: 152px;
+    height: 24px;
+    top: 93px;
+    left: 948px;
+}
+
+.login-desktop .news {
+    position: absolute;
+    width: 57px;
+    height: 24px;
+    top: 124px;
+    left: 767px;
+}
+
+.login-desktop .feedback {
+    position: absolute;
+    width: 102px;
+    height: 24px;
+    top: 124px;
+    left: 948px;
+}
+
+.login-desktop .career {
+    position: absolute;
+    width: 69px;
+    height: 24px;
+    top: 155px;
+    left: 767px;
+}
+
+.login-desktop .explore-cleveland {
+    position: absolute;
+    width: 185px;
+    height: 24px;
+    top: 155px;
+    left: 948px;
+}
+
+.login-desktop .dakghar-niryat {
+    position: absolute;
+    top: 62px;
+    left: 135px;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    color: #e9efff;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.login-desktop .clipart {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 28px;
+    left: 20px;
+    object-fit: cover;
+}
+
+.login-desktop .overlap {
+    position: absolute;
+    width: 111px;
+    height: 179px;
+    top: 53px;
+    left: 1218px;
+}
+
+.login-desktop .group {
+    position: absolute;
+    width: 111px;
+    height: 179px;
+    top: 0;
+    left: 0;
+}
+
+.login-desktop .overlap-group {
+    position: relative;
+    width: 113px;
+    height: 179px;
+}
+
+.login-desktop .img {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 125px;
+    left: 2px;
+}
+
+.login-desktop .group-2 {
+    position: absolute;
+    width: 113px;
+    height: 179px;
+    top: 0;
+    left: 0;
+}
+
+.login-desktop .text-wrapper-3 {
+    position: absolute;
+    top: 0;
+    left: 5px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.login-desktop .facebook {
+    position: absolute;
+    width: 105px;
+    height: 20px;
+    top: 28px;
+    left: 2px;
+}
+
+.login-desktop .div-wrapper {
+    position: absolute;
+    width: 74px;
+    height: 18px;
+    top: 1px;
+    left: 31px;
+}
+
+.login-desktop .div-2 {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.login-desktop .img-2 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 0;
+    left: 0;
+}
+
+.login-desktop .instagram {
+    position: absolute;
+    width: 109px;
+    height: 20px;
+    top: 53px;
+    left: 2px;
+}
+
+.login-desktop .instagram-2 {
+    position: absolute;
+    width: 78px;
+    height: 18px;
+    top: 0;
+    left: 31px;
+}
+
+.login-desktop .youtube {
+    position: absolute;
+    width: 95px;
+    height: 20px;
+    top: 77px;
+    left: 2px;
+}
+
+.login-desktop .youtube-2 {
+    position: absolute;
+    width: 64px;
+    height: 18px;
+    top: 0;
+    left: 31px;
+}
+
+.login-desktop .twitter {
+    position: absolute;
+    width: 84px;
+    height: 20px;
+    top: 99px;
+    left: 2px;
+}
+
+.login-desktop .group-3 {
+    position: relative;
+    height: 20px;
+}
+
+.login-desktop .twitter-2 {
+    position: absolute;
+    width: 53px;
+    height: 18px;
+    top: 2px;
+    left: 31px;
+}
+
+.login-desktop .twitter-wrapper {
+    position: absolute;
+    width: 53px;
+    height: 18px;
+    top: 127px;
+    left: 33px;
+}
+
+.login-desktop .span {
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: 0;
+}
+
+.login-desktop .logokusolidoutline {
+    position: absolute;
+    width: 20px;
+    height: 28px;
+    top: 151px;
+    left: 0;
+}
+
+.login-desktop .text-wrapper-4 {
+    position: absolute;
+    top: 153px;
+    left: 33px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.login-desktop .below-fold {
+    position: absolute;
+    width: 1440px;
+    height: 1043px;
+    top: 956px;
+    left: 0;
+    background-color: #f5f5dc;
+    backdrop-filter: blur(500px) brightness(100%);
+    -webkit-backdrop-filter: blur(500px) brightness(100%);
+}
+
+.login-desktop .press {
+    position: absolute;
+    width: 350px;
+    height: 400px;
+    top: 574px;
+    left: 95px;
+    background-color: #e9efff;
+    border-radius: 20px;
+    box-shadow: 10px 15px 4px #00000040;
+}
+
+.login-desktop .rectangle {
+    position: absolute;
+    width: 350px;
+    height: 231px;
+    top: 0;
+    left: 0;
+}
+
+.login-desktop .overlap-group-2 {
+    position: absolute;
+    width: 297px;
+    height: 123px;
+    top: 243px;
+    left: 27px;
+}
+
+.login-desktop .frame {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
+    position: absolute;
+    top: 11px;
+    left: 0;
+}
+
+.login-desktop .text-wrapper-5 {
+    position: relative;
+    width: 158px;
+    height: 29px;
+    margin-top: -1px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.login-desktop .p {
+    position: relative;
+    width: 297px;
+    height: 68px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.login-desktop .press-2 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 0;
+    left: 79px;
+    object-fit: cover;
+}
+
+.login-desktop .contact-2 {
+    position: absolute;
+    width: 350px;
+    height: 400px;
+    top: 574px;
+    left: 545px;
+    background-color: #e9efff;
+    border-radius: 20px;
+    box-shadow: 10px 15px 4px #00000040;
+}
+
+.login-desktop .overlap-2 {
+    position: absolute;
+    width: 297px;
+    height: 118px;
+    top: 243px;
+    left: 27px;
+}
+
+.login-desktop .text-wrapper-6 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.login-desktop .contact-3 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 0;
+    left: 108px;
+    object-fit: cover;
+}
+
+.login-desktop .mayor-office {
+    position: absolute;
+    width: 350px;
+    height: 400px;
+    top: 74px;
+    left: 95px;
+    background-color: #e9efff;
+    border-radius: 20px;
+    box-shadow: 10px 15px 4px #00000040;
+}
+
+.login-desktop .mayor-office-2 {
+    position: absolute;
+    width: 45px;
+    height: 40px;
+    top: 0;
+    left: 169px;
+    object-fit: cover;
+}
+
+.login-desktop .overlap-3 {
+    position: absolute;
+    width: 350px;
+    height: 400px;
+    top: 74px;
+    left: 545px;
+    border-radius: 20px;
+}
+
+.login-desktop .jobs {
+    position: absolute;
+    width: 350px;
+    height: 400px;
+    top: 0;
+    left: 0;
+    background-color: #e9efff;
+    border-radius: 20px;
+    box-shadow: 10px 15px 4px #00000040;
+}
+
+.login-desktop .frame-2 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
+    position: absolute;
+    top: 254px;
+    left: 8px;
+}
+
+.login-desktop .job {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 292px;
+    left: 293px;
+    object-fit: cover;
+}
+
+.login-desktop .today-s-update {
+    position: absolute;
+    width: 476px;
+    height: 900px;
+    top: 74px;
+    left: 944px;
+    background-color: #000000c9;
+    border-radius: 20px;
+    box-shadow: 8px 15px 2px #00000066;
+}
+
+.login-desktop .FA-qs {
+    position: absolute;
+    top: 15px;
+    left: 40px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 50px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.login-desktop .text-wrapper-7 {
+    text-decoration: underline;
+}
+
+.login-desktop .text-wrapper-8 {
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 50px;
+    letter-spacing: 0;
+}
+
+.login-desktop .mayor-bibb-announces {
+    top: 217px;
+    position: absolute;
+    width: 435px;
+    height: 88px;
+    left: 21px;
+}
+
+.login-desktop .mayor-bibb-announces-2 {
+    position: absolute;
+    width: 435px;
+    top: -1px;
+    left: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.login-desktop .text-wrapper-9 {
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+}
+
+.login-desktop .mayor-bibb-announces-wrapper {
+    top: 331px;
+    position: absolute;
+    width: 435px;
+    height: 88px;
+    left: 21px;
+}
+
+.login-desktop .mayor-bibb-announces-3 {
+    top: 445px;
+    position: absolute;
+    width: 435px;
+    height: 88px;
+    left: 21px;
+}
+
+.login-desktop .mayor-bibb-announces-4 {
+    top: 559px;
+    position: absolute;
+    width: 435px;
+    height: 88px;
+    left: 21px;
+}
+
+.login-desktop .mayor-bibb-announces-5 {
+    top: 696px;
+    position: absolute;
+    width: 435px;
+    height: 88px;
+    left: 21px;
+}
+
+.login-desktop .mayor-bibb-announces-6 {
+    top: 103px;
+    position: absolute;
+    width: 435px;
+    height: 88px;
+    left: 21px;
+}
+
+.login-desktop .read-more {
+    height: 44px;
+    top: 832px;
+    left: 21px;
+    position: absolute;
+    width: 133px;
+}
+
+.login-desktop .text-wrapper-10 {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+}
+
+.login-desktop .above-fold {
+    position: absolute;
+    width: 1440px;
+    height: 680px;
+    top: 275px;
+    left: 0;
+}
+
+.login-desktop .overlap-4 {
+    position: relative;
+    height: 679px;
+    top: 1px;
+    background-image: url(./img/unsplash-kycnggkcvyw.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.login-desktop .customer-s-portal {
+    position: absolute;
+    width: 818px;
+    top: 54px;
+    left: 43px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 80px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.login-desktop .text-wrapper-11 {
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.login-desktop .text-wrapper-12 {
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 20px;
+}
+
+.login-desktop .text-wrapper-13 {
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+.login-desktop .text-wrapper-14 {
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 23px;
+}
+
+.login-desktop .text-wrapper-15 {
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 23px;
+    text-decoration: underline;
+}
+
+.login-desktop .today-s-update-2 {
+    position: absolute;
+    width: 476px;
+    height: 340px;
+    top: 323px;
+    left: 946px;
+    background-color: #000000c9;
+    border-radius: 20px;
+}
+
+.login-desktop .city-of-cleveland {
+    position: absolute;
+    width: 409px;
+    height: 58px;
+    top: 188px;
+    left: 40px;
+}
+
+.login-desktop .city-of-cleveland-2 {
+    position: absolute;
+    width: 409px;
+    height: 58px;
+    top: -1px;
+    left: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+}
+
+.login-desktop .text-wrapper-16 {
+    position: absolute;
+    top: 15px;
+    left: 40px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+}
+
+.login-desktop .ohio-state-issue {
+    position: absolute;
+    width: 408px;
+    height: 91px;
+    top: 76px;
+    left: 40px;
+}
+
+.login-desktop .ohio-state-issue-2 {
+    position: absolute;
+    width: 408px;
+    top: -1px;
+    left: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+}
+
+.login-desktop .read-more-2 {
+    height: 29px;
+    top: 290px;
+    left: 40px;
+    position: absolute;
+    width: 133px;
+}
+
+.login-desktop .live-video {
+    position: absolute;
+    width: 404px;
+    height: 267px;
+    top: 29px;
+    left: 991px;
+    background-image: url(./img/rectangle-63.png);
+    background-size: 100% 100%;
+}
+
+.login-desktop .text-wrapper-17 {
+    position: absolute;
+    top: 8px;
+    left: 343px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.login-desktop .ellipse {
+    position: absolute;
+    width: 11px;
+    height: 11px;
+    top: 16px;
+    left: 324px;
+    background-color: #b21625;
+    border-radius: 5.5px;
+}
+
+.login-desktop .polygon-wrapper {
+    position: absolute;
+    width: 51px;
+    height: 51px;
+    top: 107px;
+    left: 176px;
+    background-color: #ffffff;
+    border-radius: 25.5px;
+    backdrop-filter: blur(100px) brightness(100%);
+    -webkit-backdrop-filter: blur(100px) brightness(100%);
+}
+
+.login-desktop .polygon {
+    position: absolute;
+    width: 17px;
+    height: 20px;
+    top: 16px;
+    left: 20px;
+}
+
+.login-desktop .text-wrapper-18 {
+    position: absolute;
+    width: 350px;
+    top: 196px;
+    left: 19px;
+    font-family: "Montserrat-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.login-desktop .header {
+    position: absolute;
+    width: 1440px;
+    height: 275px;
+    top: 0;
+    left: 0;
+    background-color: #195994;
+    opacity: 0.9;
+}
+
+.login-desktop .overlap-5 {
+    position: relative;
+    width: 1440px;
+    height: 261px;
+    top: 14px;
+}
+
+.login-desktop .overlap-6 {
+    position: absolute;
+    width: 1440px;
+    height: 261px;
+    top: 0;
+    left: 0;
+}
+
+.login-desktop .overlap-7 {
+    position: absolute;
+    width: 1440px;
+    height: 169px;
+    top: 92px;
+    left: 0;
+}
+
+.login-desktop .navigation-bar {
+    position: absolute;
+    width: 1440px;
+    height: 95px;
+    top: 74px;
+    left: 0;
+    background-color: #b21625;
+    overflow: hidden;
+}
+
+.login-desktop .menu {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 75px;
+    position: relative;
+    top: 36px;
+    left: 804px;
+}
+
+.login-desktop .breadcrumbs {
+    margin-left: -2px;
+    background-color: var(--grey-50);
+    display: inline-flex;
+    height: 24px;
+    align-items: center;
+    gap: var(--dimensions-gaps-gap-10);
+    padding: 0px var(--dimensions-gaps-gap-10) 0px var(--dimensions-gaps-gap-10);
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: var(--dimensions-corners-corner-10);
+    border: 2px solid;
+    border-color: var(--cyan-25);
+}
+
+.login-desktop .text {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.5px;
+    font-family: var(--h2-font-family);
+    font-weight: var(--h2-font-weight);
+    color: var(--white);
+    font-size: var(--h2-font-size);
+    letter-spacing: var(--h2-letter-spacing);
+    line-height: var(--h2-line-height);
+    white-space: nowrap;
+    font-style: var(--h2-font-style);
+}
+
+.login-desktop .breadcrumbs-state {
+    background-color: #868686b2;
+    display: inline-flex;
+    height: 24px;
+    align-items: center;
+    gap: var(--dimensions-gaps-gap-10);
+    padding: 0px var(--dimensions-gaps-gap-10) 0px var(--dimensions-gaps-gap-10);
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: var(--dimensions-corners-corner-10);
+    border: 2px solid;
+    border-color: var(--cyan-25);
+}
+
+.login-desktop .breadcrumbs-2 {
+    display: inline-flex;
+    height: 24px;
+    align-items: center;
+    gap: var(--dimensions-gaps-gap-10);
+    padding: 0px var(--dimensions-gaps-gap-10) 0px var(--dimensions-gaps-gap-10);
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #936469;
+    border-radius: var(--dimensions-corners-corner-10);
+    border: 2px solid;
+    border-color: var(--cyan-25);
+}
+
+.login-desktop .press-3 {
+    position: relative;
+    width: 54px;
+    height: 24px;
+}
+
+.login-desktop .ttile {
+    position: absolute;
+    width: 637px;
+    height: 80px;
+    top: 0;
+    left: 196px;
+}
+
+.login-desktop .search-bar {
+    position: absolute;
+    width: 467px;
+    height: 52px;
+    top: 108px;
+    left: 948px;
+    border-radius: 30px;
+    border: 1px solid;
+    border-color: #e9efff;
+}
+
+.login-desktop .text-wrapper-19 {
+    position: absolute;
+    top: 12px;
+    left: 27px;
+    opacity: 0.5;
+    font-family: "Montserrat-Light", Helvetica;
+    font-weight: 300;
+    color: #e9efff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.login-desktop .search-icon {
+    position: absolute;
+    width: 27px;
+    height: 23px;
+    top: 14px;
+    left: 416px;
+}
+
+.login-desktop .overlap-group-3 {
+    position: relative;
+    height: 22px;
+}
+
+.login-desktop .ellipse-2 {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    top: 0;
+    left: 0;
+    border-radius: 9px;
+    border: 0.5px solid;
+    border-color: #e9efff;
+}
+
+.login-desktop .rectangle-2 {
+    position: absolute;
+    width: 11px;
+    height: 8px;
+    top: 14px;
+    left: 15px;
+}
+
+.login-desktop .overlap-8 {
+    position: absolute;
+    width: 715px;
+    height: 150px;
+    top: 0;
+    left: 32px;
+}
+
+.login-desktop .text-wrapper-20 {
+    position: absolute;
+    width: 579px;
+    height: 35px;
+    top: 39px;
+    left: 136px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #e9efff;
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.login-desktop .clipart-2 {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    top: 0;
+    left: 0;
+}
+
+.login-desktop .azadi-ka-amrit {
+    position: absolute;
+    width: 193px;
+    height: 94px;
+    top: 4px;
+    left: 1199px;
+    object-fit: cover;
+}
+
+.login-desktop .india-logo {
+    position: absolute;
+    width: 170px;
+    height: 90px;
+    top: 0;
+    left: 948px;
+    object-fit: cover;
+}
